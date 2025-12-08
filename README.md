@@ -90,6 +90,11 @@ Growth in Emerging Markets: Investigate specific barriers in the Philippines (17
 
 The dashboard successfully identifies that the company has a strong, balanced portfolio with Chocolate Chip as the "Star" product. While overall performance is robust, addressing the seasonal dips in Q1 and Q3 could significantly boost annual profitability.
 
+<img width="894" height="581" alt="image" src="https://github.com/user-attachments/assets/69f9a3b7-44f5-44b9-ae91-f282861b7404" />
+<img width="688" height="435" alt="image" src="https://github.com/user-attachments/assets/32e85682-e4b1-4b6b-9ae5-8ac411c95c81" />
+<img width="704" height="223" alt="image" src="https://github.com/user-attachments/assets/cf0fab9e-2c51-4cce-991b-fe77d8a0643a" />
+
+
 **🛠 Tools Used**
 
 Microsoft Excel: Pivot Tables, Pivot Charts, Slicers.
